@@ -17,7 +17,7 @@ Gson
 # Features
 - All users are required to register
 - It allows the user to Track The movement of the Train
-- Allows user to know the dates if Trains
+- Allows user to know the dates of Trains
 ----------------------------------------------------------------------------
 # Libraries
 - Volley
