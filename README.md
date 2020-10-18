@@ -1,14 +1,4 @@
-An Application for tracking the movement of the train by entering the train id will appear on Google Map, and can also know the dates of trains by determining the take-off station and the arrival station and the type of train, and will know the dates of all trains.
-
-## Technologies
-- Web services (Volley).
-- Firebase SDK.
-- Google Maps API.
-- Fragments.
-- JSON.
-
-## About Train Tracking App
-- An Android app that tracking the movement of the train and know the dates of trains
+An Application for Tracking the Movement of The Train by Entering The Train id will appear on Google Map, and can also know The Dates of Trains by Determining The take-off station and The Arrival Station and The Type of Train, and will know The Dates of all Trains.
 
 ## Getting Started
 - Go to release section and download the latest version of Train Tracking App
